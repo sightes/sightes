@@ -2,9 +2,6 @@
 <h3 align="center">Im an electronics engenieer from chile, developer, teacher and analyst from chile</h3>
 
 
-<img src="https://www.korosenai.es/wp-content/uploads/2018/10/rick-sanchez-querido.jpg"  width="200" 
-     height="200" alt="sightes" />
-
 - 🔭 I’m currently working on **Client Clustering**
 
 - 🌱 I’m currently learning **Javascript, D3.js**
