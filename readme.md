@@ -45,6 +45,5 @@ I've worked across industries like **banking**, **retail**, **energy**, and **te
 - 🌐 [LinkedIn](https://linkedin.com/in/sightes)  
 - 💌 Email: sulloa@ieee.org  
 - 📍 Based in Santiago, Chile  
-- 🐱 Fun fact: I believe clean code is a form of self-care 💖
 
 Thanks for passing by! May your data always be clean and your models well-tuned 🌸🚀
