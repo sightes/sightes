@@ -3,6 +3,7 @@
 Welcome to my little corner of GitHub!  
 I'm a Data Scientist & Engineer from Santiago, Chile 🇨🇱, where I mix data, strategy and a bit of magic to turn numbers into decisions ✨📊
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sightes&layout=compact&langs_count=8&theme=github_dark) 
 ---
 
 ## 💼 What I Do
