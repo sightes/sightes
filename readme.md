@@ -1,4 +1,4 @@
-# 🌟 Hi there, I'm Sebastián Ulloa ~ ✨
+# 🌟 Hi there ~ ✨
 
 Welcome to my little corner of GitHub!  
 I'm a Data Scientist & Engineer from Santiago, Chile 🇨🇱, where I mix data, strategy and a bit of magic to turn numbers into decisions ✨📊
