@@ -5,7 +5,7 @@ I'm a Data Scientist & Engineer from Santiago, Chile 🇨🇱, where I mix data,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sightes&layout=compact&langs_count=8&theme=github_dark) 
 
-
+My new goal is increase this XD
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sightes&show_icons=true&theme=github_dark)
 ---
 
