@@ -17,22 +17,11 @@ My new goal is increase this XD
   I’ve led data-driven projects across banking, retail, energy, and tech, always connecting machine learning with business value.
   
 	• 💸 Pricing & Revenue Optimization
-			I craft dynamic strategies to boost margin, profit and customer value.
-   
 	• 🧠 Machine Learning & Forecasting
-			I build predictive models for churn, demand, and recommendations.
-    
 	• ☁️ Big Data & Cloud Engineering
-			I design scalable pipelines with Spark, GCP, Hive and Airflow.
-   
 	• 🔌 APIs & Real-time Data Products
-			I deliver production APIs using FastAPI, Docker and Rust.
-   
 	• 🤖 AI Applications
-			I apply LLMs, vector search and hybrid AI to real problems.
-   
 	• 🧭 Leadership & Teaching
-			I lead teams and teach data science with purpose and impact.
 
 ---
 
