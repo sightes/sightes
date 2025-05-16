@@ -16,22 +16,33 @@ My new goal is increase this XD
 
   I’ve led data-driven projects across banking, retail, energy, and tech, always connecting machine learning with business value.
   
-  	• 💸 Pricing & Revenue Optimization. I design dynamic pricing strategies that improve margins, profitability and customer value across channels.
-  	• 🧠 Machine Learning & Forecasting. From churn prediction to demand forecasting and recommendation systems — I make models that matter.
-  	• ☁️ Big Data & Cloud Engineering. Architecting scalable pipelines and infrastructure using Spark, GCP, Hive, and Airflow.
-  	• 🔌 APIs & Real-time Data Products. I build production-ready APIs and data services using FastAPI, Docker, and yes — sometimes Rust.
-  	• 🤖 AI Applications. Experimenting with LLMs, vector search, and hybrid ML/heuristic systems to solve business problems faster.
-  	• 🧭 Leadership & Teaching. Team builder, mentor, and data science instructor. I believe in growing people as much as models.
+	• 💸 Pricing & Revenue Optimization
+			I craft dynamic strategies to boost margin, profit and customer value.
+   
+	• 🧠 Machine Learning & Forecasting
+			I build predictive models for churn, demand, and recommendations.
+    
+	• ☁️ Big Data & Cloud Engineering
+			I design scalable pipelines with Spark, GCP, Hive and Airflow.
+   
+	• 🔌 APIs & Real-time Data Products
+			I deliver production APIs using FastAPI, Docker and Rust.
+   
+	• 🤖 AI Applications
+			I apply LLMs, vector search and hybrid AI to real problems.
+   
+	• 🧭 Leadership & Teaching
+			I lead teams and teach data science with purpose and impact.
 
 ---
 
 ## 🧁 Interests
-	•	Dynamic pricing & algorithmic revenue strategies
-	•	MLOps, model deployment & monitoring
-	•	Forecasting under uncertainty
-	•	AI APIs & cognitive services
-	•	Efficient systems in Rust & Python
-	•	Teaching & speaking about data
+	• Dynamic pricing & algorithmic revenue strategies
+	• MLOps, model deployment & monitoring
+	• Forecasting under uncertainty
+	• AI APIs & cognitive services
+	• Efficient systems in Rust & Python
+	• Teaching & speaking about data
 
 ---
 
