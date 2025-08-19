@@ -1,9 +1,5 @@
 🌟 Welcome — I’m Sebastián Ulloa 👋
 
-Data Scientist | Pricing Strategist | ML & AI Builder
-
-Hi from Santiago, Chile 🇨🇱 — I blend data, algorithms and business thinking to craft pricing strategies, predictive models, and scalable AI solutions. My passion: turning analytics into real-world impact.
-
 ## 💼 What I Do
 
   I’ve led data-driven projects across banking, retail, energy, and tech, always connecting machine learning with business value.
@@ -40,5 +36,6 @@ Python | Rust | Spark | SQL | GCP | Hive | Airflow | Docker | FastAPI | Power BI
 - 📍 Based in Santiago, Chile  
 
 ---
+
 
 
