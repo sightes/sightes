@@ -48,3 +48,4 @@ Python | Rust | Spark | SQL | GCP | Hive | Airflow | Docker | FastAPI | Power BI
 - 📍 Based in Santiago, Chile  
 
 ---
+
