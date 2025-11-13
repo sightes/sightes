@@ -1,52 +1,49 @@
+🌟🎅 Welcome — I’m Sebastián Ulloa 🎁❄️  
 
-🌕🎃 Welcome — I’m Sebastián Ulloa 👋🕯️
+“Turning data into magic — one model at a time… now sprinkled with holiday cheer.” ✨🎄  
 
-“Turning data into magic — one model at a time.” ✨
+*(Puedes reemplazar este banner por uno tuyo en tonos rojo, verde y dorado; con luces navideñas, copos de nieve y un toque de magia invernal.)*  
 
-(Puedes reemplazar este banner por uno tuyo con tonos negro, naranja y violeta; motivo de luna llena y hojas otoñales.)
+⸻  
 
-⸻
+🎁 **What I Do — Data, Code & Christmas Lights** 🎄  
 
-💼 What I Do 🧙‍♂️
+Entre luces parpadeantes y datos que brillan como estrellas, lidero proyectos donde la inteligencia artificial se mezcla con la innovación empresarial.  
+Transformo datos en historias con propósito para banca, retail, energía y tecnología.  
 
-Entre calabazas brillantes y data encantada, lidero proyectos donde el machine learning se mezcla con magia empresarial.
-Transformo datos en conjuros de valor para banca, retail, energía y tecnología.
+🎄 **My Specialties Wrapped in Ribbon:**  
+- 💸 Pricing & Revenue Optimization  
+- 🧠 Machine Learning & Forecasting  
+- ☁️ Big Data & Cloud Engineering  
+- 🔌 APIs & Real-time Data Products  
+- 🤖 AI Applications  
+- 🧭 Leadership & Teaching  
 
-🕸️ Mis especialidades encantadas:
-	•	💸 Pricing & Revenue Optimization
-	•	🧠 Machine Learning & Forecasting
-	•	☁️ Big Data & Cloud Engineering
-	•	🔌 APIs & Real-time Data Products
-	•	🤖 AI Applications
-	•	🧭 Leadership & Teaching
+⸻  
 
-⸻
+✨ **Interests Under the Tree** 🎁  
+- Dynamic pricing & algorithmic revenue strategies  
+- MLOps, model deployment & monitoring  
+- Forecasting under uncertainty  
+- AI APIs & cognitive services  
+- Efficient systems in Rust & Python  
+- Teaching & speaking about data  
 
-🧁 Interests 👻
-	•	Dynamic pricing & algorithmic revenue strategies
-	•	MLOps, model deployment & monitoring
-	•	Forecasting under uncertainty
-	•	AI APIs & cognitive services
-	•	Efficient systems in Rust & Python
-	•	Teaching & speaking about data
+⸻  
 
-⸻
+🛠️ **Tools That Keep My Workshop Running** 🧑‍🎄  
+Python · Rust · Spark · SQL · GCP · Hive · Airflow · Docker  
+FastAPI · Power BI · Looker · Git · Scikit-learn  
+LangChain · Pinecone · HuggingFace  
 
-🛠️ Tools I Like 🔮
+⸻  
 
-Python · Rust · Spark · SQL · GCP · Hive · Airflow · Docker
-FastAPI · Power BI · Looker · Git · Scikit-learn
-LangChain · Pinecone · HuggingFace
+📫 **Let’s Connect This Holiday Season** 🎅  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sightes/)  
+- 💌 sulloa@ieee.org  
+- 📍 Santiago, Chile  
 
-⸻
+⸻  
 
-📫 Let’s connect! 🕷️
-	•	🌐 LinkedIn
-	•	💌 sulloa@ieee.org
-	•	📍 Santiago, Chile
-
-⸻
-
-🦇 Trick or Treat your models 💀
-✨ Deploy with magic, monitor with data.
-
+🎄 “Deploy with joy, monitor with peace, and let your data shine bright.” ✨  
+🕯️ *Merry Data-mas & a predictive New Year!* 🎁
