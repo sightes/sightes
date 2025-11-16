@@ -38,6 +38,28 @@ LangChain · Pinecone · HuggingFace
 
 ⸻  
 
+📊 **Language Mix in My Repos**  
+
+<!-- Badge dinámico con el porcentaje de lenguajes en tus repos.
+     Si tu usuario de GitHub es otro, reemplaza `sightes` por tu username real. -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sightes&layout=compact&theme=tokyonight)
+
+<!--
+Si prefieres algo totalmente estático, puedes usar esta tabla y editar los porcentajes a mano:
+
+| Language   | Usage (%) |
+|-----------|-----------|
+| Python    | 68%       |
+| Rust      | 12%       |
+| SQL       | 8%        |
+| JavaScript| 7%        |
+| Shell     | 5%        |
+
+-->
+
+⸻  
+
 📫 **Let’s Connect This Holiday Season** 🎅  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sightes/)  
 - 💌 sulloa@ieee.org  
