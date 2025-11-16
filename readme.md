@@ -40,22 +40,28 @@ LangChain · Pinecone · HuggingFace
 
 📊 **Language Mix in My Repos**  
 
-<!-- Badge dinámico con el porcentaje de lenguajes en tus repos.
-     Si tu usuario de GitHub es otro, reemplaza `sightes` por tu username real. -->
+<!--
+  Muestra todos (o prácticamente todos) los lenguajes detectados en tus repos.
+  `langs_count=20` aumenta el máximo de lenguajes visibles.
+-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sightes&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sightes&layout=compact&theme=tokyonight&langs_count=20)
 
 <!--
-Si prefieres algo totalmente estático, puedes usar esta tabla y editar los porcentajes a mano:
+Si quieres complementar con una vista aún más visual, puedes añadir otra tarjeta:
 
-| Language   | Usage (%) |
-|-----------|-----------|
-| Python    | 68%       |
-| Rust      | 12%       |
-| SQL       | 8%        |
-| JavaScript| 7%        |
-| Shell     | 5%        |
+![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sightes&theme=tokyonight)
 
+O mantener además una tabla estática (editando tú los porcentajes):
+
+| Language    | Usage (%) |
+|------------|-----------|
+| Python     |  🐍       |
+| Rust       |  🦀       |
+| SQL        |           |
+| JavaScript |           |
+| Bash       |           |
+| Others     |           |
 -->
 
 ⸻  
