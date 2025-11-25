@@ -31,10 +31,8 @@ LangChain · Pinecone · HuggingFace
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sightes&layout=compact&theme=tokyonight&langs_count=20)
-
-
 📫 **Let’s Connect This Holiday Season** 🎅  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sightes/)  
 - 💌 sulloa@ieee.org  
 - 📍 Santiago, Chile  
+
