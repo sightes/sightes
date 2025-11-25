@@ -1,11 +1,4 @@
 🌟🎅 Welcome — I’m Sebastián Ulloa 🎁❄️  
-
-“Turning data into magic — one model at a time… now sprinkled with holiday cheer.” ✨🎄  
-
-*(Puedes reemplazar este banner por uno tuyo en tonos rojo, verde y dorado; con luces navideñas, copos de nieve y un toque de magia invernal.)*  
-
-⸻  
-
 🎁 **What I Do — Data, Code & Christmas Lights** 🎄  
 
 Entre luces parpadeantes y datos que brillan como estrellas, lidero proyectos donde la inteligencia artificial se mezcla con la innovación empresarial.  
@@ -36,42 +29,12 @@ Python · Rust · Spark · SQL · GCP · Hive · Airflow · Docker
 FastAPI · Power BI · Looker · Git · Scikit-learn  
 LangChain · Pinecone · HuggingFace  
 
-⸻  
 
-📊 **Language Mix in My Repos**  
-
-<!--
-  Muestra todos (o prácticamente todos) los lenguajes detectados en tus repos.
-  `langs_count=20` aumenta el máximo de lenguajes visibles.
--->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sightes&layout=compact&theme=tokyonight&langs_count=20)
 
-<!--
-Si quieres complementar con una vista aún más visual, puedes añadir otra tarjeta:
-
-![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sightes&theme=tokyonight)
-
-O mantener además una tabla estática (editando tú los porcentajes):
-
-| Language    | Usage (%) |
-|------------|-----------|
-| Python     |  🐍       |
-| Rust       |  🦀       |
-| SQL        |           |
-| JavaScript |           |
-| Bash       |           |
-| Others     |           |
--->
-
-⸻  
 
 📫 **Let’s Connect This Holiday Season** 🎅  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sightes/)  
 - 💌 sulloa@ieee.org  
 - 📍 Santiago, Chile  
-
-⸻  
-
-🎄 “Deploy with joy, monitor with peace, and let your data shine bright.” ✨  
-🕯️ *Merry Data-mas & a predictive New Year!* 🎁
